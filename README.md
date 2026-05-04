@@ -71,7 +71,7 @@ This portfolio is deployed and live using modern hosting platforms.
 ## 📬 Contact
 
 * 📧 Email: [tomarvaishali2000@gmail.com](mailto:tomarvaishali2000@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/vaishali-tomar-bb9247304/)
+* 💼 LinkedIn: https://www.linkedin.com/in/vaishali-tomar-bb9247304/
 * 🐙 GitHub: https://github.com/VaishaliTomar99
 
 ---
