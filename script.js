@@ -21,7 +21,7 @@ document.querySelectorAll(".card").forEach(card => {
 
 // Typing Animation
 const texts = [
-  "Full Stack Developer 🚀",
+  "Software Developer 🚀",
   "Problem Solver 🧠",
   "Passionate Learner 👨‍💻",
   "Tech Enthusiast ⚡"
